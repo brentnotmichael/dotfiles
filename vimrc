@@ -63,6 +63,13 @@ set laststatus=2
 set showmode
 set showcmd
 
+" For POWERLINE
+python3 from powerline.vim import setup as powerline_setup
+python3 powerline_setup()
+python3 del powerline_setup
+
+set laststatus=2
+
 " Searching
 nnoremap / /\v
 vnoremap / /\v
