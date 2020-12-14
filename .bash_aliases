@@ -1,0 +1,5 @@
+alias hills="ssh mgannett@hills.ccsf.edu"
+alias dwnld="builtin cd ~/storage/downloads/"
+alias grep="grep --color=auto"
+alias egrep="grep -e --color=auto"
+alias cls="clear && tput cup $(tput lines) 0"

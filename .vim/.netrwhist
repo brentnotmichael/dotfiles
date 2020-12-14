@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/data/data/com.termux/files/home/cs160b/homework'
+let g:netrw_dirhist_9='/data/data/com.termux/files/home/cs160b'
+let g:netrw_dirhist_8='/data/data/com.termux/files/home'
+let g:netrw_dirhist_7='/data/data/com.termux/files/home/.vim/pack/themes/start/dracula/after/syntax'
+let g:netrw_dirhist_6='/data/data/com.termux/files/home'
+let g:netrw_dirhist_5='/data/data/com.termux/files/home/.vim/pack/themes/start/dracula/after/plugin'
+let g:netrw_dirhist_4='/data/data/com.termux/files/home/.vim/pack/themes/start/dracula/after'
+let g:netrw_dirhist_3='/data/data/com.termux/files/home'
+let g:netrw_dirhist_2='/data/data/com.termux/files/home/.vim/pack/themes/start/dracula/after/plugin'
+let g:netrw_dirhist_1='/data/data/com.termux/files/home/.vim/pack/themes/start/dracula/after'
